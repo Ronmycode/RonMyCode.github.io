@@ -11183,6 +11183,13 @@ textarea.form-control-lg {
   font-size: 1.5rem;
 }
 
+#plant {
+  background-image: url("/assets/img/nikita-bren-pmXNWp4Kz3A-unsplash.jpg");
+  background-size: cover;
+  height: 100vh;
+  background-position: right bottom;
+}
+
 .whoweare {
   font-family: Merriweather;
   padding: 5rem 0rem;
